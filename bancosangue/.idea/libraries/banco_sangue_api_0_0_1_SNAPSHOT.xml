@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="banco-sangue-api-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/banco-sangue-api/banco-sangue-api/target/banco-sangue-api-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
